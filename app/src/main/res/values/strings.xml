@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuoteOfTheDay</string>
+    <string name="quote_of_the_day">Quote of the Day</string>
+    <string name="todays_quote">Today\'s Quote</string>
+</resources>
